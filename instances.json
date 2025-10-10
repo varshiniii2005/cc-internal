@@ -1,0 +1,7 @@
+[
+  {"Name":"t2.micro","vCPUs":1,"Memory_GB":1,"Zone":"us-east-1"},
+  {"Name":"t2.small","vCPUs":1,"Memory_GB":2,"Zone":"us-east-1"},
+  {"Name":"t2.medium","vCPUs":2,"Memory_GB":4,"Zone":"us-east-1"},
+  {"Name":"m5.large","vCPUs":2,"Memory_GB":8,"Zone":"us-east-1"},
+  {"Name":"m5.xlarge","vCPUs":4,"Memory_GB":16,"Zone":"us-east-1"}
+]
